@@ -776,6 +776,10 @@ h2 {
     top: 1.75rem;
   }
 
+  .md\:col-span-2 {
+    grid-column: span 2 / span 2;
+  }
+
   .md\:scale-150 {
     --tw-scale-x: 1.5;
     --tw-scale-y: 1.5;
